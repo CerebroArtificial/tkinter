@@ -217,4 +217,4 @@ This first episode was thought of as an introduction to the Python Tkinter libra
 
 For the second part we will work with another Tkinter project, where we will elaborate the graphic interface of a calculator.
 
-<center>Thanks for your time!</center>
+### <center>Thanks for your time!</center>
